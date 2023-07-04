@@ -172,7 +172,7 @@ transition: 0.4s;
 }
 /*responsividade */
 
-@media (max-width: 450px) {
+@media (max-width: 100%) {
 
     body {
         flex-direction: column;
